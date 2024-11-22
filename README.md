@@ -31,7 +31,8 @@ FinalModel.pkl
 Use the pretrained FinalModel.pkl file for predictions and integrate it with the Flask application to display the output to the user.
 
 ### Web Application 
-<img width="735" alt="Webpage" src="https://github.com/user-attachments/assets/09f7c5c6-49ea-4d36-b301-6f44a0418859">
+<img width="735" alt="webapp" src="https://github.com/user-attachments/assets/0e811f56-c7f3-44a5-8e83-785c23eb900b">
+
 
 ## Conclusion
 This project successfully utilized both machine learning algorithms and advanced deep learning models for breast cancer diagnosis. Deep learning models outperformed ML approaches, achieving an impressive accuracy of 98.50%, with sensitivity and specificity metrics providing a comprehensive evaluation of their effectiveness. The final trained model was seamlessly integrated into a flask application, allowing access through API endpoints. Additionally, a user-friendly web interface was developed to enable intuitive interaction with the breast cancer diagnosis system.
